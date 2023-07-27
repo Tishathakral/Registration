@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(207, 163, 249);
+}
+#SignUp{
+width: 400px;
+background-color: aliceblue;
+padding: 24px;
+margin-left: auto;
+margin-right: auto;
+border-style:solid;
+margin-top: 5%;
+border-radius: 5%;
+}
+.input-label{
+    margin:0;
+    margin-top: 12px;
+    margin-bottom: 4px;
+}
+
+h3{
+    size:10;
+}
+.input-item{
+    width: 100%;
+    font-size: 15px;
+    line-height: 20px;
+    padding: 4px 10px;
+    min-height: 33px;
+    border: unset;
+    border-radius: 1px;
+    outline-color: rgb(84 105 212 / 0.5);
+    background-color: rgb(255, 255, 255);
+    margin-right: 200px;
+}
+
+h1{
+    text-align: center;
+}
+.right{
+    width:100%;
+    block-size:40px;
+    background-color: brown;
+    color: white;
+    font-size: 100%;
+}
