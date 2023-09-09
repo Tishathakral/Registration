@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(207, 163, 249);
+    background-color: rgb(75, 185, 210);
 }
 #SignUp{
 width: 400px;
@@ -39,7 +39,7 @@ h1{
 .right{
     width:100%;
     block-size:40px;
-    background-color: brown;
+    background-color: rgb(75, 185, 210);
     color: white;
     font-size: 100%;
 }
