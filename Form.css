@@ -50,6 +50,6 @@ h1{
 .right{
     float:right;
     block-size:40px;
-    background-color: brown;
+    background-color: rgb(75, 185, 210);
     color: white;
 }
